@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 items = [
     {
-        "name": "Juice",
+        "name": "Drinks",
         "rate": 46
     },
     {
